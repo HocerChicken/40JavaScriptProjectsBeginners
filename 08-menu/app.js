@@ -120,7 +120,7 @@ function displayMenuItems(menu) {
                             ${item.desc}
                         </p>
                     </div>
-                </article>
+        </article>
       `;
     });
     sectionMenu.innerHTML = displayMenu.join("");
